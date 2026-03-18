@@ -75,10 +75,10 @@ forex-strategy-analysis/
 ## Dashboard Preview
 
 ### Page 1 — Strategy Overview
-forex-project/page1_overview.png
+![Page 1](forex-project/page1_overview.png)
 
 ### Page 2 — Analysis and Optimisation
-forex-project/page2_analysis.png
+![Page 2](forex-project/page2_analysis.png)
 
 ---
 
