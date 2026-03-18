@@ -113,4 +113,5 @@ Data source → point to your local `output/eu_enriched.csv`
 ---
 
 *Project by Shaikh Aaqib | Data Analyst Portfolio*
+
 *LinkedIn: https://www.linkedin.com/in/aaqib-shaikh/ | Email: nizamishaikh5@gmail.com*
